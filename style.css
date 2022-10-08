@@ -296,4 +296,11 @@ p{
    .buttons{
        font-size: 6px;
    }
+    
+    .servicecenter{
+    position: relative;
+    top: 50px;
+    right: 50px;
+  }
+
  }
