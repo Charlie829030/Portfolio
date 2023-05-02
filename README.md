@@ -4,6 +4,8 @@
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/113832827/235581906-5fe7aeb9-4267-43bf-a39a-7168b6551e6f.png)
 
+![Screenshot (13)](https://user-images.githubusercontent.com/113832827/235583999-bfaad077-f5ec-4f9a-ae46-f5853d3d7abe.png)
+
 
 ## Show [`Portfolio`](https://charlie829030.github.io/Portfolio/)
 ## Use Methods 🥇:
